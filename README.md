@@ -8,10 +8,11 @@ Run this project to your computer with this steps:
 2. Install ```Scrapy``` with this command ```conda install -c conda-forge scrapy``` or ```pip install Scrapy```.
 3. Run this project with command ```scrapy crawl manga```.
 4. Insert a chapter link that you want in command prompt.
-5. You can see your downloaded manga in folder next to this project folder.
+5. You can see your downloaded manga in folder next to readmangatoday folder.
 6. Finish.
 
 
 
 copyright by me.
+
 Feel ree to use.
